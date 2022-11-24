@@ -1,0 +1,1 @@
+#ler primeiro e só depois separar
